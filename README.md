@@ -1,8 +1,8 @@
-### Hi there 👋
+### Olá!! 👋
 
 
 
-- 🌱 I’m currently learning: Java, HTML, CSS, JavaScript, Node.js, Bootstrap, Mongo DB, React js
+- 🌱 Atualmente estudo: Java, HTML, CSS, JavaScript, Node.js, Bootstrap, Mongo DB, React js
 
 
 
