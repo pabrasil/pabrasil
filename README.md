@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente estudo: Java, HTML, CSS, JavaScript, Node.js, Bootstrap, Mongo DB, React js
+- 🌱 Atualmente estudo: Java, Python, HTML, CSS, JavaScript, Node.js, Bootstrap, Mongo DB, React js, firebase, MySQL
 
 
 
