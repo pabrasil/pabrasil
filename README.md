@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Tenho interesse em estudar e participar de projetos que utilizam Javascript e Java. 
+- 🌱 Tenho interesse em estudar e participar de projetos que utilizam JavaScript e Java. 
 
 
 
