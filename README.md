@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Tenho interesse em ciência de dados e desenvolvimento web. Meu objetivo é estudar e participar de projetos que utilizam Python e JavaScript. 
+- 🌱 Meu objetivo é estudar e participar de projetos que envolvam análise, ciência e/ou engenharia de dados.
 
 
 
