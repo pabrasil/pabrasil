@@ -2,6 +2,6 @@
 
 
 
-- 🌱 	Meu objetivo é estudar e participar de projetos que envolvam análise, ciência e engenharia de dados e também desenvolvimento de sistemas.
+- 🌱 	Meu objetivo é estudar e participar de projetos que envolvam o ciclo de dados e também desenvolvimento de sistemas.
 
 
