@@ -2,6 +2,6 @@
 
 
 
-- 🌱  Meu objetivo é participar de projetos que envolvam Desenvolvimento Full Stack e/ou Análise de Sistemas.
+- 🌱  Meu objetivo é participar de projetos que envolvam Análise de Sistemas e/ou Desenvolvimento Web Full Stack.
 
 
