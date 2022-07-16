@@ -2,6 +2,9 @@
 
 
 
-- 🌱  Meu objetivo é participar de projetos que envolvam Análise de Sistemas e/ou Desenvolvimento Web Full Stack.
+- 🌱  Formado em engenharia florestal
+- 💻  Cursando Análise e Desenvolvimento de Sistemas
+
+- 📝  Áreas de interesse: Análise de Sistemas, Testes de software, Desenvolvimento FullStack e Análise de dados
 
 
