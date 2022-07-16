@@ -2,7 +2,7 @@
 
 
 
-- 🌱  Formado em engenharia florestal
+- 🌱  Formado em Engenharia Florestal
 - 💻  Cursando Análise e Desenvolvimento de Sistemas
 
 - 📝  Áreas de interesse: Análise de Sistemas, Testes de software, Desenvolvimento FullStack e Análise de dados
